@@ -1,11 +1,10 @@
 
-## Laravel project to manage a dynamic form
+## Laravel React with Material UI Minimal template
 
+## Database - Sqlite
 ## How to run
 
 Please run below commands,
-
-#Database - Sqlite
 
 - composer install
 - npm install
