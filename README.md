@@ -10,11 +10,10 @@ Please run below commands,
 - npm install
 - php artisan migrate
 - php artisan db:seed --class=UsersTableSeeder
-note : rename env.example to .env
-- php artisan key:generate
+- php artisan key:generate ( note : rename env.example to .env ) 
 - npm run dev
 - php artisan serve
 
-Login Credentials
-Email : john.doe@example.com
-Password : password123
+#Login Credentials
+- Email : john.doe@example.com
+- Password : password123
