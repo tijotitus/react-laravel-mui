@@ -66,7 +66,6 @@ console.log(data.message);
         fullWidth
         name="email"
         label="Email address"
-        defaultValue="hello@gmail.com"
         InputLabelProps={{ shrink: true }}
         sx={{ mb: 3 }}
         onChange={(e) => setEmail(e.target.value)}
@@ -80,7 +79,6 @@ console.log(data.message);
         fullWidth
         name="password"
         label="Password"
-        defaultValue="@demo1234"
         InputLabelProps={{ shrink: true }}
         type={showPassword ? 'text' : 'password'}
         InputProps={{
